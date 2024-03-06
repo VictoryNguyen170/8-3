@@ -236,3 +236,18 @@ button:hover p {
     opacity: 1;
   }
 }
+
+a { 
+  text-decoration: none;
+  cursor: pointer;
+  color:rgb(255, 69, 109)
+}
+
+a:visited {
+  color: plum
+}
+
+a:hover {
+  color: rgb(255, 88, 188);
+}
+

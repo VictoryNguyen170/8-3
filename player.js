@@ -250,7 +250,7 @@
             padding: 5px;
             color: #fff;
             display: flex;
-            align-items: center;
+            align-items: bottom;
             position: relative;
             margin: 0 0 25px;
           }
